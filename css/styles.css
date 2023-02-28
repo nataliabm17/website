@@ -56,6 +56,7 @@ a:hover {
 .bottom-container {
   background-color: #66BFBF;
   padding: 30px 0 40px;;
+  font-family: Montserrat, sans-serif;
 }
 
 .copyright {
@@ -72,6 +73,7 @@ a:hover {
 .footer-link {
   font-family: Montserrat, sans-serif;
   text-decoration: none;
+  margin-right: 20px;
 }
 
 .middle-container {
@@ -106,6 +108,23 @@ a:hover {
 .skill-as {
   width: 20%;
   float: right;
+}
+
+.experience-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.experience-row h3 {
+  text-align: center;
+}
+
+.experience-as {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
 }
 
 .top-cloud {
